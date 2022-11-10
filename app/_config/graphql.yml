@@ -1,0 +1,6 @@
+SilverStripe\GraphQL\Schema\Schema:
+    schemas:
+        default:
+            models:
+                GraphQL\DataObjects\Product:
+                fields: '*'
